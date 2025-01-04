@@ -42,4 +42,4 @@ Email: [joeraad2002@gmail.com]
 
 Feel free to connect and collaborate—I'm always open to exciting opportunities! 🚀
 
-git commit -m "Added profile README"
+
